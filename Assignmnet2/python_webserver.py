@@ -1,7 +1,7 @@
 """
     This is a simple webserver implemented using Python Flask library
 
-    Author: umairkarel
+   
 """
 from flask import Flask
 
